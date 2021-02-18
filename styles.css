@@ -1,0 +1,11 @@
+.jumbotron {
+    background-image: url(https://www.model-space.com/blog/wp-content/uploads/2015/12/Top-6-Reasons-to-Build-Scale-Models.jpg);
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    color:azure;
+}
+
+.btn-primary {
+    background-color: darkslategray;
+}
